@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>B5C56C3123FAA3512FDB6B3BE706B4</NAME>
+    <TYPE>HT</TYPE>
+    <DISPLAY_NAME>R3TR IWSV ZRICEFW_INV_SRV                    0001</DISPLAY_NAME>
+    <SRCSYSTEM>E2T</SRCSYSTEM>
+    <AUTHOR>SADDEPALLI00</AUTHOR>
+    <DEVCLASS>ZRICEFW</DEVCLASS>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
